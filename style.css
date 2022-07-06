@@ -1,0 +1,67 @@
+body{
+
+    
+
+}
+
+.background-img{
+    background-image: url(images/donation4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 500px;
+    width: 80%;
+
+}
+
+
+.donate{
+    color: white;
+    text-align: center;
+    font-size: 30px;
+    
+
+}
+.link-button{
+    text-decoration: none;
+    color: white;
+    background-color: tomato;
+    padding:10px;
+    margin: 0 auto;
+    
+}
+.flex-contaniner{
+    display: flex;    
+    margin-right: 20px;
+    justify-content: space-around;
+
+}
+.tk_amount{
+    width: 100px;
+    height: 100px;
+    background: ghostwhite;
+    color: #f00;
+    display :flex; 
+    justify-content: center;
+    align-items: center;
+    padding: 30px;
+
+
+}
+.color{
+    background: rgb(9, 245, 245);
+}
+.flex-contaniner > div .color{
+    background:#fff;
+
+
+}
+
+
+.Donate{
+    text-align: center;
+    font-size: 20px;
+    
+}
+.color{
+    color: blueviolet;
+}
